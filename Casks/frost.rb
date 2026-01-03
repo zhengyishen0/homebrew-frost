@@ -1,6 +1,6 @@
 cask "frost" do
-  version "1.0.4"
-  sha256 "aa48b5d0e9fbd7541047ba45dfd90faf242d8688117aac4c76dfb7a650871024"
+  version "1.0.5"
+  sha256 "0f2109da9ad269ed9cc23917ea813836bf6f85a0ca580bac64e4ba7bcbfa72a0"
 
   url "https://github.com/zhengyishen0/frost-app/releases/download/v#{version}/Frost-#{version}.dmg"
   name "Frost"
